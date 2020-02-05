@@ -21,7 +21,3 @@ response:
 		"zipcode": "94502"
 	}]
 }
-
-# /api/v1/streetvalidator/getStreets
-
-# /api/v1/streetvalidator/getStreetsByZipcode
