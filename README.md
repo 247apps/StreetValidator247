@@ -1,4 +1,4 @@
-# StreetValidator247
+# StreetValidator247 API
 StreetValidator247 is API to validate streets and zipcodes in US and Canada. 
 Languages supported: 
 - Java, 
@@ -7,7 +7,7 @@ Languages supported:
 - Python
 - C#
 
-## /api/v1/streetvalidator/isStreetValid
+#### /api/v1/streetvalidator/isStreetValid
 
 header: 
 Content-Type:application/json
@@ -31,6 +31,6 @@ response:
 	}]
 }
 
-## /api/v1/streetvalidator/getStreets
+#### /api/v1/streetvalidator/getStreets
 
-## /api/v1/streetvalidator/getStreetsByZipcode
+#### /api/v1/streetvalidator/getStreetsByZipcode
