@@ -1,11 +1,13 @@
 # StreetValidator247 API
-StreetValidator247 is API to validate streets and zipcodes in US and Canada. 
+StreetValidator247 is API to validate streets given zipcodes in US and Canada. 
+
 Languages supported: 
 - Java
 - PHP
 - NodeJS
 - Python
 - C#
+
 Method supported:
 - POST
 - GET: /api/v1/streetvalidator/isStreetValid?street=4855%20Adelphian%20Wy.&postalcode=94502&apikey=Kh8mrYfoppzD26AFD3yid4WanQ
@@ -35,5 +37,6 @@ response:
 }
 
 #### /api/v1/streetvalidator/getStreets
-
 #### /api/v1/streetvalidator/getStreetsByZipcode
+#### /api/v1/streetvalidator/batch (coming soon)
+
